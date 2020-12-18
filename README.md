@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/55292448/95516096-56b57e00-0984-11eb-9da2-39aae751f9f3.gif" width="522" height="440"/>
 
-### Uriel Cabrera, an Infomatic engineer student :computer:.
+### Uriel C., an Infomatic engineer. :computer:.
 ### I'm a very fan of linux, design and build web applications.
 ### Sometimes post personal projects.
 
